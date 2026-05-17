@@ -1,2 +1,14 @@
-# CodeAlpha_BasicChatbot
-A simple rule-based chatbot developed using Python for the CodeAlpha Python Programming Internship.
+# Basic Chatbot
+
+This is a simple chatbot project made using Python.
+
+## Features
+- Greeting responses
+- User interaction
+- Exit command
+
+## Technologies Used
+- Python
+
+## Run Command
+python chatbot.py
